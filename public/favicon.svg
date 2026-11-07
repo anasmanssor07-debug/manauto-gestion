@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Background circular badge with dark gradient -->
+  <circle cx="256" cy="256" r="240" fill="#0b0f19" stroke="#f59e0b" stroke-width="12" />
+  
+  <!-- Monogram M in dark navy / metallic -->
+  <path d="M140 330V180L200 250L256 180L312 250L372 180V330" stroke="#f8fafc" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" opacity="0.3" />
+  
+  <!-- Stylized G Monogram in Gold -->
+  <path d="M350 210C330 170 280 150 230 160C170 172 130 225 135 285C140 345 190 385 256 385C320 385 365 345 365 295H260" stroke="#f59e0b" stroke-width="24" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Car Silhouette Overlay in Forefront -->
+  <path d="M110 325 C 150 325, 175 300, 205 270 C 235 240, 290 238, 335 255 C 370 268, 395 290, 415 325 Z" fill="#0b0f19" stroke="#f59e0b" stroke-width="10" />
+  
+  <!-- Car Roof & Windshield Line -->
+  <path d="M185 280 C 215 245, 270 240, 325 260" stroke="#f8fafc" stroke-width="12" stroke-linecap="round" />
+  
+  <!-- Car Wheel Wells & Underbody -->
+  <circle cx="170" cy="335" r="26" fill="#0b0f19" stroke="#f59e0b" stroke-width="10" />
+  <circle cx="340" cy="335" r="26" fill="#0b0f19" stroke="#f59e0b" stroke-width="10" />
+  <circle cx="170" cy="335" r="10" fill="#f59e0b" />
+  <circle cx="340" cy="335" r="10" fill="#f59e0b" />
+
+  <!-- MANAUTO Gold text bottom arc -->
+  <text x="256" y="440" text-anchor="middle" fill="#f59e0b" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="44" letter-spacing="4">MANAUTO</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "MANAUTO GESTION",
+  "description": "MANAUTO GESTION - Système complet de gestion de location de voitures au Maroc : gestion de flotte, contrats de location avec signature numérique, suivi des clients et règlements, alertes d'assurance et vidange, caisse journalière et bilan financier sécurisé.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
